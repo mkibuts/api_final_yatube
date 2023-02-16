@@ -19,7 +19,7 @@
     . venv/scripts/activate
 
 3. Установить зависимости
-    python pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. Сделать миграции
     python manage.py makemigrations
